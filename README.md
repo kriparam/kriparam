@@ -102,5 +102,5 @@ A full-stack authentication system demonstrating registration, login, password h
 ## 📫 Contact
 
 * GitHub: @kriparam
-* LinkedIn: Add your LinkedIn profile
-* Email: Add your professional email
+* LinkedIn: https://www.linkedin.com/in/kriparam-solanki-9100b2154 
+* Email: kskriparamsolanki@gmail.com
